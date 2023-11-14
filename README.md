@@ -8,9 +8,9 @@
 [![Profile Views](https://visitcount.itsvg.in/api?id=subham-chaudhary&label=Views&color=12&icon=5&pretty=true)](https://github.com/Subham-chaudhary/Subham-chaudhary)<br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-chaudhary&theme=vision-friendly-dark&hide_border=true"/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-chaudhary&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-chaudhary&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-chaudhary&theme=vision-friendly-dark&hide_border=true"/><br/>
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=subham-chaudhary&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/><br/>
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-chaudhary&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
 
 
