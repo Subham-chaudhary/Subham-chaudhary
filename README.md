@@ -20,8 +20,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subham-chaudhary&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subham-chaudhary&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=subham-chaudhary&icon=0&color=0)](https://visitcount.itsvg.in)
