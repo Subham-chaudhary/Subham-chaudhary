@@ -1,7 +1,5 @@
-![Subham Chaudhary - Game Developer from Agra, India. Proficient in Blender, Unity, Unreal Engine, Cascadeur, CopperCube, OpenGL. Skilled in Python, Java, JavaScript, Kotlin, SQL, C, and C#. Experienced with Arduino, Flutter, Raspberry Pi, Android, Django, and web development.](https://imgur.com/uhNBZLf.if)
+![hi, I'm Subham Chaudhary - Game Developer. Proficient in Blender, Unity, Unreal Engine, Cascadeur, CopperCube, OpenGL. Skilled in Python, Java, JavaScript, Kotlin, SQL, C, and C#. Experienced with Arduino, Flutter, Raspberry Pi, Android, Django, and web development.](https://imgur.com/uhNBZLf.gif)
 
-<!-- <img src="https://imgur.com/uhNBZLf.gif" height="100%" width="100%" align="center"> -->
-<div>
-<img alt="Static Badge" src="https://img.shields.io/badge/My_projects-black?style=for-the-badge&logo=gamedeveloper">
 
-</div>
+![Static Badge](https://img.shields.io/badge/Hit_Me_On-Whatsapp-25D366?style=flat&logo=whatsapp&link=https%3A%2F%2Fwa.link%2F18tf6f)
+
