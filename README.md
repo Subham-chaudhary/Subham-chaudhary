@@ -1,4 +1,7 @@
-![hi, I'm Subham Chaudhary - Game Developer. Proficient in Blender, Unity, Unreal Engine, Cascadeur, CopperCube, OpenGL. Skilled in Python, Java, JavaScript, Kotlin, SQL, C, and C#. Experienced with Arduino, Flutter, Raspberry Pi, Android, Django, and web development.](https://imgur.com/uhNBZLf.gif)
+<!-- ![hi, I'm Subham Chaudhary - Game Developer. Proficient in Blender, Unity, Unreal Engine, Cascadeur, CopperCube, OpenGL. Skilled in Python, Java, JavaScript, Kotlin, SQL, C, and C#. Experienced with Arduino, Flutter, Raspberry Pi, Android, Django, and web development.](https://imgur.com/uhNBZLf.gif) -->
+
+![hi, I'm Subham Chaudhary - Game Developer. Proficient in Blender, Unity, Unreal Engine, Cascadeur, CopperCube, OpenGL. Skilled in Python, Java, JavaScript, Kotlin, SQL, C, and C#. Experienced with Arduino, Flutter, Raspberry Pi, Android, Django, and web development.](https://imgur.com/o4waAZK.gif)
+
 
 
 [![Whatsapp: +918449850892](https://img.shields.io/badge/Hit_Me_On-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&labelColor=black&link=https%3A%2F%2Fwa.link%2F18tf6f)](https://wa.link/18tf6f)
@@ -12,6 +15,3 @@
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-chaudhary&theme=vision-friendly-dark&hide_border=true"/><br/>
 <img width="65%" src="https://github-readme-stats.vercel.app/api?username=subham-chaudhary&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/><br/>
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-chaudhary&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p>
-
-
-
