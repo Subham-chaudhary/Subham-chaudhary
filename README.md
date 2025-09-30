@@ -107,7 +107,8 @@
 <p>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino" />
     <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi" />
-</p>
+    <img src="https://img.shields.io/badge/-ESP32-0052CC?style=for-the-badge&logo=esp32" />
+    <img src="https://img.shields.io/badge/-MQTT-FF9900?style=for-the-badge&logo=eclipse-mosquit" />
 
 ---
 
