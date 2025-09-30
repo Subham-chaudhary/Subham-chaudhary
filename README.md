@@ -118,8 +118,8 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&labelColor=black)](https://wa.link/18tf6f)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhi._._.singh)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/subham-chaudhary-53668229b/)
-<a href="" onclick="navigator.clipboard.writeText('venom__69sda');return false;"><img src="https://img.shields.io/badge/copy username-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="mailto:shubhu.uwu@gmail.com" onclick="navigator.clipboard.writeText('venom__69sda');return false;"><img src="https://img.shields.io/badge/shubhu.uwu@gmail.com-gmail-EA4335?&style=for-the-badge&logo=gmail&labelColor=black)"></a>
+<img src="https://img.shields.io/badge/venom____69-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" onclick="navigator.clipboard.writeText('venom__69');return false;">
+<a href="mailto:shubhu.uwu@gmail.com" onclick="navigator.clipboard.writeText('shubhu.uwu@gmail.com');return false;"><img src="https://img.shields.io/badge/shubhu.uwu@gmail.com-gmail-EA4335?&style=for-the-badge&logo=gmail&labelColor=black)"></a>
 [![Email](https://img.shields.io/badge/Open_in_pc-gmail-EA4335?&style=for-the-badge&logo=gmail&labelColor=black)](https://mail.google.com/mail/u/0/?fs=1&to=shubhu.uwu@gmail.com&su=Subject&body=Got%20Your%20mail%20from%20github&tf=cm)
 </div>
 
