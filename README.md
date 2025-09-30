@@ -17,7 +17,6 @@
                     🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️
 </pre></div>
 
-
 # Hello, I'm **Subham Chaudhary!**
 
 🎮 I love playing games built with passion by devs—it fuels my own dream of becoming one. I’ve learned a ton along the way, but for now I’m focused on being a solid tech engineer first before making another leap into game dev.
@@ -168,11 +167,18 @@
 
 
 ## Listen to my favorite music
-<div align="left" >
+<div align="left" justify-content="center" style="display: flex; align-items: center;">
 
-![dance-with-me](/dancing-with-u.gif)
 ![Latest Plays](https://spotify-recently-played-readme.vercel.app/api?user=31zkmm6gnj27xidlx6v2kl2rgtsq&count=10)
-![dance-with-me](/me-cheelin2.gif)
+[![spotify-recently-played](https://spotify-github-profile.kittinanx.com/api/view?uid=31zkmm6gnj27xidlx6v2kl2rgtsq&cover_image=true&theme=default&show_offline=false&background_color=202020&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zkmm6gnj27xidlx6v2kl2rgtsq&redirect=true)
+
 </div>
+
+---
+### idk what to put next but here's gifs
+![dance-with-me](/dancing-with-u.gif)
+![dance-with-me](/me-cheelin2.gif)
+
+---
 
 ![Stats](https://hit.yhype.me/github/profile?account_id=150613597)
