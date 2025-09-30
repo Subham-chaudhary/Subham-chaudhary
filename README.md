@@ -16,6 +16,7 @@
                     🌸  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝  🌸
                     🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️
 </pre></div>
+<img align='right' src='blackkitty.gif' width='200'>
 
 # Hello, I'm **Subham Chaudhary!**
 
@@ -26,6 +27,7 @@
 🚀 And yeah… with a dozen unfinished projects behind me, I’ve realized one thing: unless I’m getting paid, chances are that project’s staying in the backlog. 😅
 
 ---
+<img align='right' src='dancing-with-u.gif' width='250'>
 
 ## 🛠️ My Tech Stack
 
@@ -47,10 +49,9 @@
 
 <p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
-    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp" />
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
-    <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+    <img src="https://img.shields.io/badge/-C++-A8B9CC?style=for-the-badge&logo=c" />
     <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql" />
 </p>
@@ -163,23 +164,34 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Subham-chaudhary&show_icons=true&include_all_commits=true&count_private=true" />
 </picture>
+<picture>
+ <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Subham-chaudhary&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Subham-chaudhary&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subham-chaudhary&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=false" />
+</picture>
 </div>
-
+<!-- <img align='right' src='dancing-with-u.gif' width='180'> -->
 
 
 ## Listen to my favorite music
-<div align="left" justify-content="center" style="display: flex; align-items: center;">
+<div align="left">
 
 ![Latest Plays](https://spotify-recently-played-readme.vercel.app/api?user=31zkmm6gnj27xidlx6v2kl2rgtsq&count=10)
 [![spotify-recently-played](https://spotify-github-profile.kittinanx.com/api/view?uid=31zkmm6gnj27xidlx6v2kl2rgtsq&cover_image=true&theme=default&show_offline=false&background_color=202020&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zkmm6gnj27xidlx6v2kl2rgtsq&redirect=true)
+<img align='right' src='mecheeling.gif' width='180'/>
 
 </div>
 
 ---
-### idk what to put next but here's gifs
-![dance-with-me](/dancing-with-u.gif)
-![dance-with-me](/me-cheelin2.gif)
+<div align="center">
+  <kbd>Dirty</kbd> <kbd>Deeds</kbd> <kbd>Done</kbd> <kbd>Dirt</kbd> <kbd>Cheap</kbd>
+</div>
 
 ---
-
 ![Stats](https://hit.yhype.me/github/profile?account_id=150613597)
