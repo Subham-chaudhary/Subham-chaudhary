@@ -1,20 +1,22 @@
 
 <div style="width:700px;">
 <pre>
-🌸🌺💮██████╗  █████╗ ██████╗ ██╗  ██╗███████╗💮🌺🌸                    
-🌸🌺💮██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔════╝💮🌺🌸                    
-🌸🌺💮██████╔╝███████║██║  ██║███████║█████╗ 💮🌺🌸                    
-🌸🌺💮██╔══██╗██╔══██║██║  ██║██╔══██║██╔══╝ 💮🌺🌸                    
-🌸🌺💮██║  ██║██║  ██║██████╔╝██║  ██║███████╗💮🌺🌸                    
-🌸🌺💮╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝💮🌺🌸                    
-                    🌸🌺💮██████╗  █████╗ ██████╗ ██╗  ██╗███████╗💮🌺🌸
-                    🌸🌺💮██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔════╝💮🌺🌸
-                    🌸🌺💮██████╔╝███████║██║  ██║███████║█████╗  💮🌺🌸
-                    🌸🌺💮██╔══██╗██╔══██║██║  ██║██╔══██║██╔══╝  💮🌺🌸
-                    🌸🌺💮██║  ██║██║  ██║██████╔╝██║  ██║███████╗💮🌺🌸
-                    🌸🌺💮╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝💮🌺🌸
-</pre>
-</div>
+🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️
+🌸  ██████╗  █████╗ ██████╗ ██╗  ██╗███████╗  🌺                    
+🌺  ██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔════╝  🏵️                    
+🏵️  ██████╔╝███████║██║  ██║███████║█████╗    🌺                    
+🌺  ██╔══██╗██╔══██║██║  ██║██╔══██║██╔══╝    🌸                    
+🌸  ██║  ██║██║  ██║██████╔╝██║  ██║███████╗  🌺                    
+🏵️  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝  🏵️🌸🏵️🌺🌸🏵️🌺🌸🏵️  
+🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺  ██████╗  █████╗ ██████╗ ██╗  ██╗███████╗  🌺
+                    🌸  ██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔════╝  🏵️
+                    🌺  ██████╔╝███████║██║  ██║███████║█████╗    🌺
+                    🏵️  ██╔══██╗██╔══██║██║  ██║██╔══██║██╔══╝    🌸
+                    🌺  ██║  ██║██║  ██║██████╔╝██║  ██║███████╗  🏵️
+                    🌸  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝  🌸
+                    🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️🌺🌸🏵️
+</pre></div>
+
 
 # Hello, I'm **Subham Chaudhary!**
 
@@ -126,14 +128,31 @@
 
 ## GitHub Statistics
 
-<div align="center">
+<div align="left">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=subham-chaudhary&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subham-chaudhary&layout=compact&theme=tokyonight)
-![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subham-chaudhary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-</div>
-
-<!-- <picture>
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=subham-chaudhary&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=subham-chaudhary"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham-chaudhary" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham-chaudhary&layout=compact&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham-chaudhary&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham-chaudhary&layout=compact" />
+</picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Subham-chaudhary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: dark)"
@@ -143,15 +162,17 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Subham-chaudhary&show_icons=true&include_all_commits=true&count_private=true" />
-</picture> -->
+</picture>
+</div>
+
+
 
 ## Listen to my favorite music
-<div align="left">
+<div align="left" >
 
+![dance-with-me](/dancing-with-u.gif)
 ![Latest Plays](https://spotify-recently-played-readme.vercel.app/api?user=31zkmm6gnj27xidlx6v2kl2rgtsq&count=10)
-<img src="me-cheelin2.gif" height="600" alt="Me Cheelin" />
-
+![dance-with-me](/me-cheelin2.gif)
 </div>
 
 ![Stats](https://hit.yhype.me/github/profile?account_id=150613597)
-
