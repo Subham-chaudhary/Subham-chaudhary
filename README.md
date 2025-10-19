@@ -187,10 +187,14 @@
 <img align='right' src='mecheeling.gif' width='180'/>
 
 </div>
-
----
 <div align="center">
   <kbd>Dirty</kbd> <kbd>Deeds</kbd> <kbd>Done</kbd> <kbd>Dirt</kbd> <kbd>Cheap</kbd>
+  
+---
+  
+  https://github.com/user-attachments/assets/8cfa64a8-d5ee-4146-9b6a-c923d227e11f
+
+<a href="https://space.bilibili.com/36613605"><kbd>Credits:</kbd><kbd>九毛Mmmm</kbd></a>
 </div>
 
 ---
