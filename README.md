@@ -2,20 +2,21 @@
 
 <img align='right' src='blackkitty.gif' width='200'>
 
-# Hello, I'm **Subham Chaudhary!**
+# Hello, I'm **Shubh!**
 
-🎮 I love playing games built with passion by devs—it fuels my own dream of becoming one. I’ve learned a ton along the way, but for now I’m focused on being a solid tech engineer first before making another leap into game dev.
+I love games built with **passion**(not a buzzword)—not corporate ***cash-grabs shipping unfinished recycled slop***. That passion pushed me into tech, and one day I’ll jump back into game dev for real.
 
-💾 Databases? Postgres is straight-up OP. ⚡ Backend? Spring Boot slaps. I’m fluent in Python & Java, but I don’t lock myself into a single tech—I work on solutions that actually work.
+Postgres is OP. Spring Boot slaps. Python & Java are my mains, but I care more about building what works than worshipping one stack.
 
-🚀 And yeah… with a dozen unfinished projects behind me, I’ve realized one thing: unless I’m getting paid, chances are that project’s staying in the backlog. 😅
+Also, after a dump of unfinished side projects, I’ve learned a universal truth: if nobody’s paying me, that project’s probably doomed. 😅
+
 
 ---
 <img align='right' src='dancing-with-u.gif' width='250'>
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
-### 🎮 Game Development & 3D Graphics
+### Game Development & 3D Graphics
 * Prototyped native game pipelines in Unity before focusing on college commitments.
 * Modeled and animated assets using Blender and Cascadeur.
 * Contributed to the CopperCube JavaScript game engine community with plugins.
@@ -28,7 +29,7 @@
     <img src="https://img.shields.io/badge/-CopperCube-8B4513?style=for-the-badge" />
 </p>
 
-### 💻 Programming Languages
+###  Programming Languages
 * 3-4 years of experience since high school, prototyping physics simulations and building full-stack applications.
 
 <p>
@@ -40,7 +41,7 @@
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql" />
 </p>
 
-### 🌐 Web Development
+###  Web Development
 * **Backend:** Developed standalone services, REST APIs, and implemented real-time data sharing via WebSockets. Currently learning GraphQL and gRPC.
 * **Frontend:** Extensive experience with React's ecosystem for UI and state management. Used HTMX & Alpine.js for rapid hackathon prototypes.
 
@@ -56,7 +57,7 @@
     <img src="https://img.shields.io/badge/-Alpine.js-77C1D2?style=for-the-badge&logo=alpinedotjs" />
 </p>
 
-### 📱 Mobile Development
+###  Mobile Development
 * Designed and shipped P2P messaging and real-time video-sync features using Firebase.
 
 <p>
@@ -67,7 +68,7 @@
     <img src="https://img.shields.io/badge/-Sketchware-1E88E5?style=for-the-badge" />
 </p>
 
-### 🧠 AI & Computer Vision
+###  AI & Computer Vision
 * Built Maya, a custom-character creation service, and integrated function-calling with models like Mistral and Qwen.
 
 <p>
@@ -77,7 +78,7 @@
     <img src="https://img.shields.io/badge/-OpenPose-E91E63?style=for-the-badge" />
 </p>
 
-### 🗃️ Databases
+###  Databases
 * Strong SQL expertise. Utilized Redis and TimeScaleDB for low-latency, high-throughput data synchronization for multiplayer game-state updates.
 
 <p>
@@ -88,7 +89,7 @@
     <img src="https://img.shields.io/badge/-TimeScaleDB-F29218?style=for-the-badge&logo=timescaledb" />
 </p>
 
-### ⚙️ Hardware & IoT
+###  Hardware & IoT
 <p>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino" />
     <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi" />
