@@ -1,24 +1,30 @@
-> This is not ai generated TwT.
+> not ai generated(entirely :3 )
 
 <img align='right' src='blackkitty.gif' width='200'>
 
 # Hello, I'm **Shubh!**
 
-I love games built with **passion**(not a buzzword)—not corporate ***cash-grabs shipping unfinished recycled slop***. That passion pushed me into tech, and one day I’ll jump back into game dev for real.
+I love games built with **passion**(not a buzzword)—not corporate ***cash-grabs shipping unfinished recycled slop***.
 
-Postgres is OP. Spring Boot slaps. Python & Java are my mains, but I care more about building what works than worshipping one stack.
+Just working on some projects annnddd..... thats it ig
 
-Also, after a dump of unfinished side projects, I’ve learned a universal truth: if nobody’s paying me, that project’s probably doomed. 😅
+Postgres. Spring Boot. And yea some python frameworks, I jus love working with these.
+
+Also, after a dump of unfinished side projects, I’ve learned a universal truth: Motivation is good but being consistent is what gonna make you win at end (am not consistent btw ). 
 
 
 ---
 <img align='right' src='dancing-with-u.gif' width='250'>
 
-##  My Tech Stack
+##  My Tech Stack 
+
+> this is ai generated btw
+> its jus so repeatable and main points are there
+> btw all of the techs/apps/whtvr listed below (I've worked on and yea did learnt from them) 
 
 ### Game Development & 3D Graphics
-* Prototyped native game pipelines in Unity before focusing on college commitments.
-* Modeled and animated assets using Blender and Cascadeur.
+* I learnt Unity and godot tried to switch to Unreal but uhh I dont have a gpu cluster, then left game dev, and went to college.
+* Modeled and animated(bad) assets using Blender and Cascadeur.
 * Contributed to the CopperCube JavaScript game engine community with plugins.
 
 <p>
@@ -30,7 +36,7 @@ Also, after a dump of unfinished side projects, I’ve learned a universal truth
 </p>
 
 ###  Programming Languages
-* 3-4 years of experience since high school, prototyping physics simulations and building full-stack applications.
+* Uhh learning coding and programming since my school days, atleast now am good at it XD, prototyping physics simulations and building full-stack applications.
 
 <p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
@@ -42,8 +48,8 @@ Also, after a dump of unfinished side projects, I’ve learned a universal truth
 </p>
 
 ###  Web Development
-* **Backend:** Developed standalone services, REST APIs, and implemented real-time data sharing via WebSockets. Currently learning GraphQL and gRPC.
-* **Frontend:** Extensive experience with React's ecosystem for UI and state management. Used HTMX & Alpine.js for rapid hackathon prototypes.
+* **Backend:** Developed standalone services, REST APIs, and implemented real-time data sharing via WebSockets. Currently learning ~GraphQL~ and ~gRPC~, Just learnt ElasticSearch.
+* **Frontend:** Extensive experience with React's ecosystem for UI and state management. Used HTMX & Alpine.js for rapid hackathon prototypes (I suck at react idk im not good with frontend, I like Nextjs btw).
 
 <p>
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django" />
@@ -59,6 +65,7 @@ Also, after a dump of unfinished side projects, I’ve learned a universal truth
 
 ###  Mobile Development
 * Designed and shipped P2P messaging and real-time video-sync features using Firebase.
+* Also I such with Jetpack Compose, bring back old XML days XD.
 
 <p>
     <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android" />
@@ -69,7 +76,7 @@ Also, after a dump of unfinished side projects, I’ve learned a universal truth
 </p>
 
 ###  AI & Computer Vision
-* Built Maya, a custom-character creation service, and integrated function-calling with models like Mistral and Qwen.
+* Built Maya (My bot), and integrated function-calling with models like Mistral and Qwen (stuck at multimodal capabilties, idk i dont have rtx 5090).
 
 <p>
     <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
@@ -80,6 +87,7 @@ Also, after a dump of unfinished side projects, I’ve learned a universal truth
 
 ###  Databases
 * Strong SQL expertise. Utilized Redis and TimeScaleDB for low-latency, high-throughput data synchronization for multiplayer game-state updates.
+* Just learnt ElasticSearch :)
 
 <p>
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql" />
